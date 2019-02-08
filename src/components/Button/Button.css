@@ -1,0 +1,19 @@
+/*
+ In real app, would typically use Sass, Less, or PostCSS with cssnext to centralize variables
+ like the error color of red in a separate single file.
+ */
+.pink{
+    background-color: #DB7093;
+}
+
+.vs{
+    background-color: #FFB6C1;
+}
+
+.beauty-tab{
+    background-color: #FF69B4;
+}
+
+.vs-sport{
+    background-color: #FF1493;
+}
